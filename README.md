@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Teboho+Tladi!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from South Africa ZA</h3>
+<h3 align="center">A passionate Web developer from South Africa </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning React Framework
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://https://github.com/TTladi/TebohoTladi-/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
